@@ -92,19 +92,6 @@ Social accounts
 
 College link
 
-📷 Screenshots (Optional)
-
-Add screenshots of your website like this:
-
-![Home Section](photo/home_screenshot.png)
-![Skills Section](photo/skills_screenshot.png)
-
-🧩 How to Use
-
-Download or clone the repository
-
-git clone https://github.com/username/portfolio.git
-
 
 Open the project folder
 
